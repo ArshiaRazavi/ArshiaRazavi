@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="400" viewBox="0 0 850 400">
+  <style>
+    rect.bg { fill: #0d1117; }
+    .rain text { font-family: 'Courier New', monospace; fill: #0f0; }
+    .rain text.bright { fill: #5f5; font-weight: bold; }
+    .c0 { animation: drop0 3.53s linear 2.41s infinite; }
+    @keyframes drop0 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c1 { animation: drop1 4.32s linear 0.46s infinite; }
+    @keyframes drop1 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c2 { animation: drop2 3.72s linear 0.15s infinite; }
+    @keyframes drop2 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c3 { animation: drop3 2.62s linear 0.35s infinite; }
+    @keyframes drop3 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c4 { animation: drop4 3.33s linear 1.74s infinite; }
+    @keyframes drop4 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c5 { animation: drop5 2.08s linear 2.69s infinite; }
+    @keyframes drop5 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c6 { animation: drop6 3.92s linear 2.92s infinite; }
+    @keyframes drop6 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c7 { animation: drop7 3.13s linear 2.37s infinite; }
+    @keyframes drop7 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c8 { animation: drop8 4.5s linear 0.7s infinite; }
+    @keyframes drop8 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c9 { animation: drop9 2.18s linear 2.07s infinite; }
+    @keyframes drop9 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c10 { animation: drop10 2.35s linear 2.39s infinite; }
+    @keyframes drop10 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c11 { animation: drop11 2.94s linear 0.17s infinite; }
+    @keyframes drop11 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c12 { animation: drop12 4.89s linear 0.75s infinite; }
+    @keyframes drop12 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c13 { animation: drop13 2.82s linear 0.32s infinite; }
+    @keyframes drop13 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c14 { animation: drop14 4.47s linear 2.28s infinite; }
+    @keyframes drop14 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c15 { animation: drop15 2.06s linear 2.24s infinite; }
+    @keyframes drop15 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c16 { animation: drop16 4.92s linear 3.04s infinite; }
+    @keyframes drop16 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c17 { animation: drop17 4.06s linear 0.09s infinite; }
+    @keyframes drop17 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c18 { animation: drop18 3.36s linear 2.34s infinite; }
+    @keyframes drop18 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c19 { animation: drop19 4.84s linear 2.85s infinite; }
+    @keyframes drop19 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c20 { animation: drop20 4.96s linear 1.36s infinite; }
+    @keyframes drop20 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c21 { animation: drop21 2.53s linear 3.93s infinite; }
+    @keyframes drop21 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c22 { animation: drop22 4.91s linear 1.42s infinite; }
+    @keyframes drop22 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c23 { animation: drop23 4.38s linear 0.33s infinite; }
+    @keyframes drop23 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c24 { animation: drop24 2.09s linear 1.83s infinite; }
+    @keyframes drop24 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c25 { animation: drop25 4.68s linear 0.24s infinite; }
+    @keyframes drop25 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c26 { animation: drop26 2.0s linear 1.12s infinite; }
+    @keyframes drop26 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c27 { animation: drop27 3.01s linear 2.59s infinite; }
+    @keyframes drop27 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c28 { animation: drop28 2.53s linear 2.08s infinite; }
+    @keyframes drop28 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c29 { animation: drop29 3.72s linear 2.15s infinite; }
+    @keyframes drop29 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c30 { animation: drop30 4.91s linear 0.72s infinite; }
+    @keyframes drop30 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c31 { animation: drop31 3.37s linear 0.35s infinite; }
+    @keyframes drop31 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c32 { animation: drop32 3.02s linear 1.38s infinite; }
+    @keyframes drop32 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c33 { animation: drop33 2.81s linear 3.4s infinite; }
+    @keyframes drop33 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c34 { animation: drop34 3.35s linear 2.66s infinite; }
+    @keyframes drop34 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c35 { animation: drop35 3.84s linear 1.93s infinite; }
+    @keyframes drop35 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c36 { animation: drop36 2.29s linear 0.04s infinite; }
+    @keyframes drop36 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c37 { animation: drop37 2.08s linear 2.62s infinite; }
+    @keyframes drop37 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c38 { animation: drop38 4.41s linear 0.14s infinite; }
+    @keyframes drop38 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c39 { animation: drop39 3.23s linear 3.57s infinite; }
+    @keyframes drop39 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c40 { animation: drop40 3.45s linear 2.82s infinite; }
+    @keyframes drop40 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c41 { animation: drop41 3.78s linear 3.17s infinite; }
+    @keyframes drop41 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c42 { animation: drop42 3.89s linear 1.68s infinite; }
+    @keyframes drop42 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c43 { animation: drop43 3.21s linear 3.52s infinite; }
+    @keyframes drop43 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c44 { animation: drop44 2.12s linear 1.1s infinite; }
+    @keyframes drop44 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c45 { animation: drop45 4.45s linear 1.05s infinite; }
+    @keyframes drop45 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c46 { animation: drop46 2.22s linear 1.14s infinite; }
+    @keyframes drop46 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c47 { animation: drop47 2.23s linear 3.13s infinite; }
+    @keyframes drop47 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c48 { animation: drop48 3.88s linear 3.69s infinite; }
+    @keyframes drop48 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c49 { animation: drop49 3.0s linear 1.54s infinite; }
+    @keyframes drop49 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c50 { animation: drop50 2.55s linear 1.52s infinite; }
+    @keyframes drop50 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c51 { animation: drop51 2.95s linear 1.17s infinite; }
+    @keyframes drop51 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c52 { animation: drop52 3.01s linear 1.24s infinite; }
+    @keyframes drop52 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c53 { animation: drop53 4.18s linear 0.85s infinite; }
+    @keyframes drop53 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c54 { animation: drop54 4.4s linear 0.35s infinite; }
+    @keyframes drop54 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c55 { animation: drop55 3.19s linear 3.68s infinite; }
+    @keyframes drop55 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c56 { animation: drop56 2.28s linear 2.15s infinite; }
+    @keyframes drop56 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c57 { animation: drop57 4.44s linear 3.15s infinite; }
+    @keyframes drop57 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c58 { animation: drop58 4.79s linear 1.64s infinite; }
+    @keyframes drop58 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+    .c59 { animation: drop59 3.0s linear 0.09s infinite; }
+    @keyframes drop59 { 0% { transform: translateY(-20px); opacity: 0; } 5% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(420px); opacity: 0; } }
+  </style>
+  <rect class="bg" width="850" height="400" rx="6"/>
+  <g class="rain" opacity="0.18">
+    <text x="132" y="0" font-size="14" class="c0">model.fit(X,y)</text>
+    <text x="756" y="0" font-size="10" class="c1">E=hf</text>
+    <text x="622" y="0" font-size="12" class="c2">μ=E[X]</text>
+    <text x="270" y="0" font-size="13" class="c3">det(A)=0</text>
+    <text x="238" y="0" font-size="11" class="c4">ΔxΔp≥ℏ/2</text>
+    <text x="660" y="0" font-size="12" class="c5">A⊗B</text>
+    <text x="200" y="0" font-size="14" class="c6">bifurcation</text>
+    <text x="371" y="0" font-size="10" class="c7">F=ma</text>
+    <text x="631" y="0" font-size="11" class="c8">dy/dx</text>
+    <text x="251" y="0" font-size="14" class="c9">for i in range(n):</text>
+    <text x="578" y="0" font-size="12" class="c10">NPV=Σ</text>
+    <text x="259" y="0" font-size="12" class="c11 bright">A = zeros(n)</text>
+    <text x="39" y="0" font-size="11" class="c12">E[R]=Σwᵢrᵢ</text>
+    <text x="692" y="0" font-size="13" class="c13">np.array([])</text>
+    <text x="279" y="0" font-size="11" class="c14">θ=threshold</text>
+    <text x="75" y="0" font-size="14" class="c15 bright">batch_size=32</text>
+    <text x="560" y="0" font-size="10" class="c16">free(ptr)</text>
+    <text x="505" y="0" font-size="10" class="c17 bright">Σᵢxᵢ</text>
+    <text x="449" y="0" font-size="12" class="c18">E=hf</text>
+    <text x="679" y="0" font-size="10" class="c19">max(S-K,0)</text>
+    <text x="569" y="0" font-size="12" class="c20">lim x→∞</text>
+    <text x="353" y="0" font-size="14" class="c21">if x &gt; 0:</text>
+    <text x="528" y="0" font-size="10" class="c22">Σᵢxᵢ</text>
+    <text x="567" y="0" font-size="14" class="c23">PV=nRT</text>
+    <text x="527" y="0" font-size="12" class="c24">Δw∝pre·post</text>
+    <text x="175" y="0" font-size="12" class="c25">A⊗B</text>
+    <text x="84" y="0" font-size="11" class="c26">dV/dt=-V/τ+I/C</text>
+    <text x="641" y="0" font-size="11" class="c27">Na⁺ K⁺ Ca²⁺</text>
+    <text x="340" y="0" font-size="10" class="c28 bright">printf()</text>
+    <text x="577" y="0" font-size="11" class="c29">gₙₐ·m³h</text>
+    <text x="443" y="0" font-size="11" class="c30">F=qE</text>
+    <text x="287" y="0" font-size="12" class="c31">Δ=∂V/∂S</text>
+    <text x="304" y="0" font-size="11" class="c32">τₘ=RC</text>
+    <text x="461" y="0" font-size="13" class="c33">Hodgkin-Huxley</text>
+    <text x="83" y="0" font-size="12" class="c34 bright">print(loss)</text>
+    <text x="709" y="0" font-size="14" class="c35 bright">neural code</text>
+    <text x="684" y="0" font-size="12" class="c36 bright">FitzHugh-Nagumo</text>
+    <text x="251" y="0" font-size="13" class="c37">ΔxΔp≥ℏ/2</text>
+    <text x="119" y="0" font-size="10" class="c38">MSE=Σ(ŷ-y)²/n</text>
+    <text x="149" y="0" font-size="10" class="c39 bright">p=mv</text>
+    <text x="46" y="0" font-size="12" class="c40">r=ln(S/K)</text>
+    <text x="418" y="0" font-size="14" class="c41">v=fλ</text>
+    <text x="580" y="0" font-size="12" class="c42 bright">r=ln(S/K)</text>
+    <text x="756" y="0" font-size="11" class="c43 bright">LIF neuron</text>
+    <text x="513" y="0" font-size="10" class="c44">∫₀^∞</text>
+    <text x="265" y="0" font-size="12" class="c45">tuning curve</text>
+    <text x="326" y="0" font-size="13" class="c46">V=-70mV</text>
+    <text x="176" y="0" font-size="11" class="c47 bright">Poisson(λt)</text>
+    <text x="298" y="0" font-size="11" class="c48">softmax(z)</text>
+    <text x="394" y="0" font-size="13" class="c49 bright">EPSP/IPSP</text>
+    <text x="133" y="0" font-size="10" class="c50">PV=nRT</text>
+    <text x="191" y="0" font-size="11" class="c51">C·dV/dt=-gₗ(V-Eₗ)+I</text>
+    <text x="414" y="0" font-size="13" class="c52 bright">g=9.81</text>
+    <text x="70" y="0" font-size="12" class="c53">model.fit(X,y)</text>
+    <text x="644" y="0" font-size="12" class="c54">backprop</text>
+    <text x="770" y="0" font-size="13" class="c55">g=9.81</text>
+    <text x="64" y="0" font-size="12" class="c56 bright">backprop</text>
+    <text x="667" y="0" font-size="12" class="c57">τ=r×F</text>
+    <text x="603" y="0" font-size="11" class="c58">τ=r×F</text>
+    <text x="642" y="0" font-size="12" class="c59">A⊗B</text>
+  </g>
+  <g class="profile">
+    <text x="425" y="160" font-size="36" fill="#ffffff" font-weight="bold" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif">Hey, I&#x27;m Arshia 👋</text>
+    <text x="425" y="210" font-size="16" fill="#c9d1d9" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif">🎓  BSc Physics  ·  MSc Computational Neuroscience</text>
+    <text x="425" y="238" font-size="16" fill="#c9d1d9" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif">🚀  Software Engineer @ AltaML</text>
+    <text x="425" y="266" font-size="16" fill="#c9d1d9" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif">🛠️  Python  ·  C/C++  ·  MATLAB  ·  Git  ·  Linux</text>
+  </g>
+</svg>
