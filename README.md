@@ -1,11 +1,5 @@
 # Hi there! I'm Arshia 👋
 
-### My GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshiaRazavi&theme=dark)
-
-### Contribution Activity
-![](https://github-readme-stats.vercel.app/api?username=ArshiaRazavi&show_icons=true&theme=dark)
-
 <!--
 **ArshiaRazavi/ArshiaRazavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
