@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there! I'm [Arshia Razavi] 👋
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshiaRazavi&theme=dark)
 
 <!--
 **ArshiaRazavi/ArshiaRazavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
